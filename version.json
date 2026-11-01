@@ -1,0 +1,13 @@
+{
+  "version_code": 119,
+  "version_name": "2.1.0",
+  "min_supported_version_code": 1,
+  "changelog": [
+    "Rebrand the native Android app to MAXCODE and the terminal to MAXTERM.",
+    "Add OpenCode Zen, xAI Grok, OpenRouter, and custom OpenAI-compatible chat providers.",
+    "Encrypt provider API keys at rest with Android Keystore; keys are not bundled in the APK.",
+    "Persist provider-aware chat history and retain official Gemini developer API access.",
+    "Refresh native chat surfaces with translucent liquid-glass styling."
+  ],
+  "is_critical": false
+}
